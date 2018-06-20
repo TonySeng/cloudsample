@@ -9,8 +9,11 @@
         <module name="cloudsample" />
         <module name="eureka-server" />
         <module name="sample-cloud-customer" />
+        <module name="sample-config" />
+        <module name="sample-configclient" />
         <module name="sample-eureka-client" />
         <module name="sample-eureka-client2" />
+        <module name="sample-zuulservice" />
       </profile>
     </annotationProcessing>
   </component>
