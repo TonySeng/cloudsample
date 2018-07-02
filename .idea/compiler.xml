@@ -10,6 +10,7 @@
         <module name="eureka-server" />
         <module name="sample-cloud-customer" />
         <module name="sample-config" />
+        <module name="sample-config-bus" />
         <module name="sample-configclient" />
         <module name="sample-eureka-client" />
         <module name="sample-eureka-client2" />
